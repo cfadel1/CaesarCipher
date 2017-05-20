@@ -8,6 +8,6 @@ You can also open the solution in visual studio, and have fun with it.
 
 ## Result
 
-![Alt text](/Caesar_Cipher/Screenshot.png?raw=true "Optional Title")
+![Alt text](/CesarCypher/Screenshot.png?raw=true "Optional Title")
 
 
