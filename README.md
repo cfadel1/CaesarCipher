@@ -1,5 +1,4 @@
-# Caesar Cipher
-Caeser Cipher Cryptographic Decoder/Encoder
+# The Caesar Cipher Encoder Decoder
 This is a Windows Application created using C#. The goal of this application is to successfully encode and decode text using Caesar Cipher's algorithm.
 
 ## How to run
